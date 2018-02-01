@@ -1,2 +1,2 @@
 ## 概要
-Redmine WikiをDocbaseに変換するツールです。
+Redmine Wiki記法をMarkdown記法に変換するツールです。
